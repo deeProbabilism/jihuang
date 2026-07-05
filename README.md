@@ -1,6 +1,6 @@
 # Ji Huang Personal Website
 
-Static GitHub Pages site for `jihuang.github.io`, migrated from `jihuang.weebly.com`.
+Static GitHub Pages site for `deeprobabilism.github.io/jihuang`, migrated from `jihuang.weebly.com`.
 
 ## Local Preview
 
