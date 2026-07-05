@@ -107,7 +107,7 @@ a:hover {
 
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 220px;
+  grid-template-columns: minmax(0, 1fr) 240px;
   gap: 48px;
   align-items: center;
   padding: 18px 0 44px;
@@ -155,8 +155,8 @@ h3 {
 }
 
 .portrait {
-  width: 210px;
-  height: 210px;
+  width: 230px;
+  aspect-ratio: 3 / 4;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--panel);
@@ -334,8 +334,7 @@ h3 {
   }
 
   .portrait {
-    width: 148px;
-    height: 148px;
+    width: 156px;
   }
 
   .contact-grid {
